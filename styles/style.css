@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+    list-style-type: none;
+    display: block;
+    width: 100wh;
+    height: 10vh;
+    padding: 20px;
+}
+
+.nav-a {
+    float: left;
+    display: flex;
+}
+
+.nav-b {
+    float: right;
+    display: flex;
+}
+
+img {
+    display: block;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    margin-left: 40%;
+}
