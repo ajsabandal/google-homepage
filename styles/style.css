@@ -1,6 +1,8 @@
 * {
     padding: 0;
     margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
 }
 
 .navbar {
@@ -15,15 +17,26 @@
     float: left;
     display: flex;
 }
+.nav-a li {
+    padding: 5px;
+}
 
 .nav-b {
     float: right;
     display: flex;
 }
 
-img {
+.nav-b li {
+    padding: 7px;
+}
+.google-logo {
     display: block;
     margin-bottom: 10%;
     margin-top: 10%;
     margin-left: 40%;
+}
+
+.menu-icon {
+    height: 15px;
+    display: block;
 }
